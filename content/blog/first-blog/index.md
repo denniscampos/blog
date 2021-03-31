@@ -12,7 +12,7 @@ I have been coding *seriously* since September. It is no surprise I decided to p
 
 So far, I am enjoying the journey. I cannot lie about how frustrating it was initially because the vast information on the internet is *INSANE!!* I found an awesome website that explains the roadmap to the [backend world](https://roadmap.sh/backend)
 
-I decided to also to streaming on Twitch. Shameless plug [twitch.tv/dnbull](https://twitch.tv/dnbull). I stream coding occasionally and play games! 
+I decided to also to stream on Twitch. Shameless plug [twitch.tv/dnbull](https://twitch.tv/dnbull). I stream coding occasionally and play games! 
 
 Please feel free to reach out to me on Twitter if you want to have a ☕ chat. 😀
 
